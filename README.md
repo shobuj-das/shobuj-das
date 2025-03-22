@@ -4,6 +4,11 @@
 - 📫 How to reach me **dasshobuj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<!--          extra code thm  -->
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=301855" style='border:none;'></iframe>
+<!--  -->
 <p align="left">
 <a href="https://twitter.com/shobujdas45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobujdas45" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shobuj-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobuj-das" height="30" width="40" /></a>
