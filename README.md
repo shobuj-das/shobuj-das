@@ -27,7 +27,13 @@
 </a> </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian" alt="GitHub Streak" />
-</p>
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true" alt="Shobuj's GitHub Stats" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian" alt="Shobuj's GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
