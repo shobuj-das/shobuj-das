@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&" alt="shobuj-das" /></p>
 
-![Shobuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=dark&show_icons=true)
+![Shobuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true)
