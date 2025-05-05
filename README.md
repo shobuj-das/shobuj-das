@@ -24,8 +24,17 @@
 </a> </p>
 
 
+![Shobuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian&" alt="shobuj-das" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian&" alt="shobuj-das" />
-![Shobuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true)</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true" alt="Shobuj's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian" alt="Shobuj's GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
