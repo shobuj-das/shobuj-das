@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shobuj Das</h1>
-<h3 align="center">A passionate Software Test Engineer</h3>
+
+![github-header-image (1)](https://github.com/user-attachments/assets/3a6e1615-ccb0-48bb-b5ce-329d10ddab1b)
 
 - 🌱 I’m currently learning **Web and mobile automation testing**
 
