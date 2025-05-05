@@ -24,17 +24,15 @@
 </a> </p>
 
 
-![Shobuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian&" alt="shobuj-das" /></p>
-
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true" alt="Shobuj's GitHub Stats" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian" alt="Shobuj's GitHub Streak Stats" />
     </td>
   </tr>
 </table>
+
 
