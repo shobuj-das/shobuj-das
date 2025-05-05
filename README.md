@@ -1,5 +1,6 @@
 
-![github-header-image (1)](https://github.com/user-attachments/assets/3a6e1615-ccb0-48bb-b5ce-329d10ddab1b)
+![github-header-image (1)](https://github.com/user-attachments/assets/fac0bb94-da9d-4cbd-bef0-4c0b1a46809c)
+
 
 - 🌱 I’m currently learning **Web and mobile automation testing**
 
