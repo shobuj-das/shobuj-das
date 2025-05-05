@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web and mobile automation testing**
 
-- 📫 How to reach me **dasshobuj@gmail.com**
+- 📫 Reach me at **dasshobuj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
