@@ -25,6 +25,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian&" alt="shobuj-das" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian&" alt="shobuj-das" />
+![Shobuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true)</p>
 
-![Shobuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true)
+
