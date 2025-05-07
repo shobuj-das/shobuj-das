@@ -23,10 +23,10 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/playwright.svg" alt="selenium" width="40" height="40"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/appium.svg" alt="selenium" width="40" height="40"/>
-  ---
+ 
 </a> </p>
 ---
-
+---
 <table>
   <tr>
     <td>
