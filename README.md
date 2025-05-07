@@ -52,7 +52,11 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobuj-das&theme=github_dark" />
-</p>
 
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/shobuj-das" alt="shobuj-das's Github chart" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobuj-das&theme=github_dark" />
+</p>
