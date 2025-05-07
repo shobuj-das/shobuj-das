@@ -40,10 +40,14 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-</p>
+<div align="center">
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-
-
+</div>
