@@ -51,3 +51,8 @@
 </table>
 
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shobuj-das&theme=github_dark" />
+</p>
+
