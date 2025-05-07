@@ -27,13 +27,29 @@
 </a> </p>
 
 
-<table style="border: none;">
+## 📊 GitHub Stats
+
+<table>
   <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=prussian&show_icons=true" alt="Shobuj's GitHub Stats" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobuj-das&theme=prussian&show_icons=true" alt="Shobuj's GitHub Streak Stats" />
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=shobuj-das&theme=dark&hide_border=false" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobuj-das&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=shobuj-das&icon=0&color=0" />
+  </a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
