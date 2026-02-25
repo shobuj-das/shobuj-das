@@ -32,10 +32,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
+     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=shobuj-das&theme=gotham&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=shobuj-das&theme=gotham&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -45,8 +45,7 @@
 <table>
   <tr>
     <td>
-      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /> -->
-      ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
