@@ -1,53 +1,94 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fac0bb94-da9d-4cbd-bef0-4c0b1a46809c" />
+</p>
 
-![github-header-image (1)](https://github.com/user-attachments/assets/fac0bb94-da9d-4cbd-bef0-4c0b1a46809c)
+<h2 align="center">QA Automation Engineer | API | Web | Mobile | AI-Driven Testing</h2>
 
-
-- 🌱 I’m currently learning **Web and mobile automation testing**
-
-- 📫 Reach me at **dasshobuj@gmail.com**
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shobujdas45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobujdas45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shobuj-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobuj-das" height="30" width="40" /></a>
+
+## 🚀 About Me
+
+- 🔍 QA Engineer focused on **Automation, Reliability & Performance**
+- ⚙️ Working with **API, Web & Mobile Test Automation**
+- 🤖 Exploring **AI-driven testing & intelligent test generation**
+- 🧪 Strong foundation in **Manual Testing → Automation Transition**
+- 📈 Building **scalable and maintainable test frameworks**
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 👨‍💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### 🌐 Automation & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,postman,pytest" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>
+  <img src="https://appium.io/images/appium-logo-horiz.png" width="90"/>
+</p>
+
+### ⚙️ Frameworks & Performance
+<p>
+  <img src="https://skillicons.dev/icons?i=maven" />
+  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" title="TestNG"/>
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="40" title="Allure Report"/>
+  <img src="https://locust.io/static/img/locust-logo.png" width="50" title="Locust"/>
+</p>
+
+### 🛠 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/playwright.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/appium.svg" alt="selenium" width="40" height="40"/>
- 
-</a> </p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=shobuj-das&theme=gotham&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobuj-das&theme=github_dark" />
+</p>
 
 ---
 
-<table>
-  <tr>
-    <td>
-     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=shobuj-das&theme=gotham&hide_border=true" />
-    </td>
-  </tr>
-</table>
+## 📌 Core Expertise
 
-<div align="center">
+- ✅ API Automation (Requests, Pytest)
+- ✅ Web Automation (Selenium, Playwright)
+- ✅ Mobile Automation (Appium)
+- ✅ Test Framework Design (POM, Hybrid Frameworks)
+- ✅ CI/CD Integration (GitHub Actions - Learning Phase)
+- ✅ Performance Testing (Locust, JMeter - Foundational)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+---
 
-</div>
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/shobujdas45" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+<a href="https://linkedin.com/in/shobuj-das" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+📧 Email: **dasshobuj@gmail.com**
+
+---
