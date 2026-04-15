@@ -25,17 +25,16 @@
 
 ### 🌐 Automation & Testing
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,postman,pytest" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman" />
   <img src="https://cdn.worldvectorlogo.com/logos/playwright.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="40"/>
 </p>
 
-### ⚙️ Frameworks & Performance
+### ⚙️ Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=maven" />
   <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" title="TestNG"/>
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="40" title="Allure Report"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/locust.svg" width="50" title="Locust"/>
 </p>
 
 ### 🛠 DevOps & Tools
@@ -45,7 +44,7 @@
 
 ### 🗄 Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ---
@@ -64,12 +63,12 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&layout=compact" />
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobuj-das&theme=github_dark" />
     </td>
   </tr>
@@ -81,12 +80,12 @@
 
 ## 📌 Core Expertise
 
-- ✅ API Automation (Requests, Pytest)
+- ✅ API Automation (Requests)
 - ✅ Web Automation (Selenium, Playwright)
 - ✅ Mobile Automation (Appium)
 - ✅ Test Framework Design (POM, Hybrid Frameworks)
 - ✅ CI/CD Integration (GitHub Actions - Learning Phase)
-- ✅ Performance Testing (Locust, JMeter - Foundational)
+- ✅ Performance Testing (JMeter - Foundational)
 
 ---
 
