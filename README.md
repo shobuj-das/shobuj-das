@@ -26,8 +26,8 @@
 ### 🌐 Automation & Testing
 <p>
   <img src="https://skillicons.dev/icons?i=selenium,postman,pytest" />
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/>
-  <img src="https://appium.io/images/appium-logo-horiz.png" width="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/playwright.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="40"/>
 </p>
 
 ### ⚙️ Frameworks & Performance
@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=maven" />
   <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" title="TestNG"/>
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="40" title="Allure Report"/>
-  <img src="https://locust.io/static/img/locust-logo.png" width="50" title="Locust"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/locust.svg" width="50" title="Locust"/>
 </p>
 
 ### 🛠 DevOps & Tools
@@ -52,18 +52,30 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=shobuj-das&theme=gotham&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&layout=compact" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shobuj-das&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=shobuj-das&theme=gotham&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shobuj-das&theme=gotham&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobuj-das&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobuj-das&theme=github_dark" />
-</p>
+</div>
 
 ---
 
