@@ -16,39 +16,6 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
-
-### 👨‍💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
-### 🌐 Automation & Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,postman" />
-  <img src="https://cdn.worldvectorlogo.com/logos/playwright.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="40"/>
-</p>
-
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=maven" />
-  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" title="TestNG"/>
-  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="40" title="Allure Report"/>
-</p>
-
-### 🛠 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
-
-### 🗄 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -80,12 +47,12 @@
 
 ## 📌 Core Expertise
 
-- ✅ API Automation (Requests)
+- ✅ API Automation (Requests, Rest assured, Postman, Newman)
 - ✅ Web Automation (Selenium, Playwright)
 - ✅ Mobile Automation (Appium)
 - ✅ Test Framework Design (POM, Hybrid Frameworks)
 - ✅ CI/CD Integration (GitHub Actions - Learning Phase)
-- ✅ Performance Testing (JMeter - Foundational)
+- ✅ Performance Testing (JMeter, Locust - Fundamental)
 
 ---
 
