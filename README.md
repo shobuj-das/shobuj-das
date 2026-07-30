@@ -6,7 +6,6 @@
 </p>
 
 <h2 align="center">QA Automation Engineer | API | Web | Mobile | AI-Driven Testing</h2>
-
 ---
 
 ## 🚀 About Me
