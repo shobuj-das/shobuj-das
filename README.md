@@ -17,11 +17,12 @@
 - 🧪 Strong foundation in **Manual Testing → Automation Transition**
 - 📈 Building **scalable and maintainable test frameworks**
 
+<!--
 ---
 
 ## 📊 GitHub Analytics
 
-<!-- <div align="center">
+<div align="center">
 
 <table>
   <tr>
@@ -57,6 +58,7 @@
 - ✅ CI/CD Integration (GitHub Actions - Learning Phase)
 - ✅ Performance Testing (JMeter, Locust - Fundamental)
 
+<!--
 ---
 
 ## 📫 Connect With Me
@@ -68,8 +70,9 @@
 <a href="https://linkedin.com/in/shobuj-das" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-</p>
+</p> 
 
 📧 Email: **dasshobuj@gmail.com**
 
 ---
+-->
